@@ -62,13 +62,13 @@ export default function RootLayout({
           fontSans.variable
         )}
       >
-        <Analytics/>
         <ThemeProvider attribute="class" defaultTheme="light">
           <TooltipProvider delayDuration={0}>
             {children}
             <Navbar />
           </TooltipProvider>
         </ThemeProvider>
+        <Analytics/>
       </body>
     </html>
   );
