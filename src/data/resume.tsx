@@ -196,6 +196,40 @@ export const DATA = {
     // },
   ],
   projects: [
+    
+    {
+      title: "ShadowQueen",
+      href: "https://shadowqueen.vercel.app",
+      dates: " October 2025",
+      active: true,
+      description:
+        "Shadow Queen is a thrilling chess variant where one pawn secretly acts as a queen. Bluff, strategize, and use your one-time guess to uncover your opponent’s hidden power Currently work in progress !",
+      technologies: [
+        "React js",
+        "Javascript",
+        "Websocket" , 
+        "chess.js",
+        "TailwindCSS",
+        "Shadcn UI",
+        "Magic UI",
+        "Vercel" 
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://shadowqueen.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/creation22/shadowqueen",
+          icon: <Icons.github className="size-3" />,
+        }
+      ],
+      image: "https://i.ibb.co/XMjb4QJ/Screenshot-2025-10-02-154540.png",
+      video:
+        "",
+    },
     {
       title: "WorkPing",
       href: "https://workping.vercel.app",
@@ -218,10 +252,15 @@ export const DATA = {
           href: "https://workping.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
+        {
+          type: "Source",
+          href: "https://github.com/creation22/workping",
+          icon: <Icons.github className="size-3" />,
+        }
       ],
-      image: "",
+      image: "https://i.ibb.co/4gpDnvXd/Screenshot-2025-10-02-155416.png",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "",
     },
     {
       title: "DreamHer",
@@ -248,12 +287,12 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
+          href: "https://github.com/creation22/dreamgirl",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      image: "https://i.ibb.co/274XqXbf/Screenshot-2025-10-02-155305.png",
+      video: "",
     },
     {
       title: "TimeCapsuleMail",
@@ -276,17 +315,17 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://llm.report",
+          href: "https://www.timecapsulemail.space/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/dillionverma/llm.report",
+          href: "https://github.com/creation22/timecapsulemail",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://cdn.llm.report/openai-demo.mp4",
+      image: "https://i.ibb.co/1f672xqD/Screenshot-2025-10-02-155712.png",
+      video: "",
     },
     {
       title: "SaySorry",
@@ -311,10 +350,15 @@ export const DATA = {
           href: "https://saysorry.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
+        {
+          type: "Source",
+          href: "https://github.com/creation22/forgiveme",
+          icon: <Icons.github className="size-3" />,
+        }
       ],
-      image: "",
+      image: "https://i.ibb.co/6QJ6FVr/Screenshot-2025-10-02-155138.png",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+        "",
     },
   ],
   hackathons: [
