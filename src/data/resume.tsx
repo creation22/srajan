@@ -196,40 +196,101 @@ export const DATA = {
     // },
   ],
   projects: [
-    
-    {
-      title: "ShadowQueen",
-      href: "https://shadowqueen.vercel.app",
-      dates: " October 2025",
-      active: true,
-      description:
-        "Shadow Queen is a thrilling chess variant where one pawn secretly acts as a queen. Bluff, strategize, and use your one-time guess to uncover your opponent’s hidden power Currently work in progress !",
-      technologies: [
-        "React js",
-        "Javascript",
-        "Websocket" , 
-        "chess.js",
-        "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Vercel" 
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://shadowqueen.vercel.app",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/creation22/shadowqueen",
-          icon: <Icons.github className="size-3" />,
-        }
-      ],
-      image: "https://i.ibb.co/XMjb4QJ/Screenshot-2025-10-02-154540.png",
-      video:
-        "",
-    },
+  {
+    title: "StickX",
+    href: "https://stickx.vercel.app",
+    dates: "October 2025",
+    active: true,
+    description:
+      "A lightweight tool to create and share custom stickers for X posts, focused on speed, simplicity, and clean UI.",
+    technologies: [
+      "React",
+      "JavaScript",
+      "Tailwind CSS",
+      "Shadcn UI",
+      "Magic UI",
+      "Vercel"
+    ],
+    links: [
+      {
+        type: "Website",
+        href: "https://stickx.vercel.app",
+        icon: <Icons.globe className="size-3" />,
+      },
+      {
+        type: "Source",
+        href: "https://github.com/creation22/stickx",
+        icon: <Icons.github className="size-3" />,
+      }
+    ],
+    image: "https://i.ibb.co/XMjb4QJ/Screenshot-2025-10-02-154540.png",
+    video: "",
+  },
+
+  {
+    title: "AltmanGPT",
+    href: "https://altmangpt.vercel.app",
+    dates: "October 2025",
+    active: true,
+    description:
+      "An AI chat application trained on Sam Altman’s blog content using vector embeddings, enabling conversational exploration of his ideas.",
+    technologies: [
+      "React",
+      "JavaScript",
+      "Vector Database",
+      "Embeddings",
+      "WebSockets",
+      "Tailwind CSS",
+      "Shadcn UI",
+      "Vercel"
+    ],
+    links: [
+      {
+        type: "Website",
+        href: "https://altmangpt.vercel.app",
+        icon: <Icons.globe className="size-3" />,
+      },
+      {
+        type: "Source",
+        href: "https://github.com/creation22/samagpt",
+        icon: <Icons.github className="size-3" />,
+      }
+    ],
+    image: "https://i.ibb.co/XMjb4QJ/Screenshot-2025-10-02-154540.png",
+    video: "",
+  },
+
+  {
+    title: "Riddlebox",
+    href: "https://riddlebox.vercel.app",
+    dates: "October 2025",
+    active: true,
+    description:
+      "A real-time competitive platform for solving computer science riddles, featuring live opponent chat and interactive problem solving.",
+    technologies: [
+      "React",
+      "JavaScript",
+      "WebSockets",
+      "Tailwind CSS",
+      "Shadcn UI",
+      "Magic UI",
+      "Vercel"
+    ],
+    links: [
+      {
+        type: "Website",
+        href: "https://riddlebox.vercel.app",
+        icon: <Icons.globe className="size-3" />,
+      },
+      {
+        type: "Source",
+        href: "https://github.com/creation22/riddlebox",
+        icon: <Icons.github className="size-3" />,
+      }
+    ],
+    image: "https://i.ibb.co/XMjb4QJ/Screenshot-2025-10-02-154540.png",
+    video: "",
+  },
     {
       title: "WorkPing",
       href: "https://workping.vercel.app",
