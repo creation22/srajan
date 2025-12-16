@@ -223,7 +223,7 @@ export const DATA = {
         icon: <Icons.github className="size-3" />,
       }
     ],
-    image: "https://i.ibb.co/XMjb4QJ/Screenshot-2025-10-02-154540.png",
+    image: "https://i.ibb.co/RG1WgbR8/stage-1765865205611.png",
     video: "",
   },
 
@@ -256,7 +256,7 @@ export const DATA = {
         icon: <Icons.github className="size-3" />,
       }
     ],
-    image: "https://i.ibb.co/XMjb4QJ/Screenshot-2025-10-02-154540.png",
+    image: "https://i.ibb.co/tk9ZYvP/Screenshot-2025-12-16-113802.png",
     video: "",
   },
 
@@ -288,7 +288,7 @@ export const DATA = {
         icon: <Icons.github className="size-3" />,
       }
     ],
-    image: "https://i.ibb.co/XMjb4QJ/Screenshot-2025-10-02-154540.png",
+    image: "https://i.ibb.co/Z67ypVB9/stage-1765865048904.png",
     video: "",
   },
     {
